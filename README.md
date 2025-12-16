@@ -4,6 +4,6 @@
 
 IP: 158.160.217.51
 
-Frontend: https://m1800555.nomoredomainswork.ru
+Frontend: https://mesto.m1800555.nomorepartiessbs.ru
 
-Backend: https://api.m1800555.nomoredomainswork.ru
+Backend: https://api.mesto.m1800555.nomorepartiessbs.ru
